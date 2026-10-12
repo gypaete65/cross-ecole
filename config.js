@@ -1,10 +1,17 @@
 window.FIREBASE_CONFIG = {
-  apiKey: "AIzaSyDnBTAOYY-K7kodLuS_9IkRIIn2O4cJEXY",
-  authDomain: "cross-ecole.firebaseapp.com",
-  databaseURL: "https://cross-ecole-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "cross-ecole",
-  storageBucket: "cross-ecole.firebasestorage.app",
-  messagingSenderId: "229238225968",
-  appId: "1:229238225968:web:5ef1a270fac1a77e0d81f5"
+apiKey: "AIzaSyBuLN77lOg9xYn_JsmqEdM07CItKRgDISU",
+
+    authDomain: "cross-2026.firebaseapp.com",
+
+    databaseURL: "https://cross-2026-default-rtdb.europe-west1.firebasedatabase.app",
+
+    projectId: "cross-2026",
+
+    storageBucket: "cross-2026.firebasestorage.app",
+
+    messagingSenderId: "814623909718",
+
+    appId: "1:814623909718:web:267fbda342296928e958f7"
+
 };
 
